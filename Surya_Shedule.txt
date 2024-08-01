@@ -1,0 +1,14 @@
+
+	Topics:- 			Status:-
+	======				======
+	1)  Git && Github		Pending	
+	2)  HTML && CSS			Pending
+	3)  Javascript			Pending
+	4)  React JS			Pending
+	5)  IntelliJ IDEA 		Pending
+	6)  Java Core			Pending
+	7)  Spring Boot			Pending
+	8)  Spring Hibernate		Pending
+	9)  Docker			Pending
+	10) AWS				Pending
+	11) Spring Security		Pending
