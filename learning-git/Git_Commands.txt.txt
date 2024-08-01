@@ -9,4 +9,7 @@
 	5)  git add "File Name" (or) git add . (Current Directory all files)
 	6)  git rm --cached "File Name" (or) git rm -r --cached . (All Files in staged area)
 	7)  git commit -m "Type the message here"
+	8)  git log (or) git log --oneline
+	9)  git status
+	10) git commit --amend -m "Type the new Commit Message here"
 	
