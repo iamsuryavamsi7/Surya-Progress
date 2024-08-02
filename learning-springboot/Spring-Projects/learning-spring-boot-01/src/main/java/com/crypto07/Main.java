@@ -7,5 +7,7 @@ public class Main {
 
         Doctor doc = new Doctor();
 
+        doc.assist();
+
     }
 }

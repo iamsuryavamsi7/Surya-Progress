@@ -18,4 +18,5 @@
 	    will be done by spring itself and this also make our work faster.
 
 	4)  What is AOP?
-	A)  AOP means Aspect Oriented Programming.
+	A)  AOP means Aspect Oriented Programming. While creating the applications we will divide the application in layers and this 
+	    layers wants the some functionalities like profiling, logging, security and more. These things will be done by AOP.
