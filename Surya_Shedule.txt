@@ -1,7 +1,7 @@
 
 	Topics:- 			Status:-
 	======				======
-	1)  Git && Github		Pending	
+	1)  Git && Github		Done	
 	2)  HTML && CSS			Pending
 	3)  Javascript			Pending
 	4)  React JS			Pending

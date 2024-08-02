@@ -12,4 +12,11 @@
 	8)  git log (or) git log --oneline
 	9)  git status
 	10) git commit --amend -m "Type the new Commit Message here"
+	11) git branch "Branch Name"
+	12) git checkout "Branch Name"
+	13) git checkout -b "Branch Name"
+	14) git branch -d "Branch Name"
+	15) git branch -D "Branch Name"
+	16) git push --set-upstream origin main (or) git push 
+	17) git pull --set-upstream origin main (or) git pull
 	
