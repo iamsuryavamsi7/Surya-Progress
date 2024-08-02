@@ -1,0 +1,21 @@
+	
+	Spring Boot:-
+	====== ====
+
+	1)  Why Framework's ?
+	A)  Framework's help us to start our work not from scratch and there will be some inbuilt template code and also many 
+	    configuration's are already done by the framework itself.
+	
+	2)  What is Spring Boot?
+	A)  Spring Boot is a one of the module of Spring Framework and it's present in top of Spring Framework. So, When we use
+	    Spring Boot we are already using the spring framework. The main advantage of spring boot is many configuration's 
+	    Which should be done in spring framework are already done in spring boot and we can save our time for configuration's
+	    by this we can able to make our work faster.
+
+		
+	3)  What is Dependency Injection?
+	A)  If a class needs the object of another class then we have to initialise the class to bring that object. But this action
+	    will be done by spring itself and this also make our work faster.
+
+	4)  What is AOP?
+	A)  AOP means Aspect Oriented Programming.
