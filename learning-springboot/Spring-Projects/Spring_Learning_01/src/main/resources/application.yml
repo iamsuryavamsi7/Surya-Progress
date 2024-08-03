@@ -1,0 +1,28 @@
+# Configuration for Spring Boot Application Server
+
+server:
+  port: 7777
+
+# Configuration for Spring Boot Application
+
+spring:
+  application:
+  name: Spring_Learning_01
+
+# Configuration for Spring JDBC Postgresql
+
+  datasource:
+    url: jdbc:postgresql://localhost:5432/testdb_01
+    username: postgres
+    password: 1234
+    driverClassName: org.postgresql.Driver
+
+# Configuration for Spring JPA for Postgresql
+
+  jpa:
+    hibernate:
+      ddl-auto: update
+      dialect: org.hibernate.dialect.PostgreSQLDialect
+    show-sql: true
+
+# Configuration for Loggers
